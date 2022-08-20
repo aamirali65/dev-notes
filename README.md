@@ -9,6 +9,7 @@ for future me, so the wording is rough on purpose.
 - [2022-05](notes/2022-05.md)
 - [2022-06](notes/2022-06.md)
 - [2022-07](notes/2022-07.md)
+- [2022-08](notes/2022-08.md)
 
 ## Snippets
 
