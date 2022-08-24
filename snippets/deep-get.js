@@ -4,3 +4,5 @@ export function deepGet(source, path, fallback) {
 }
 
 // used in the notes above
+
+// keep it pure
