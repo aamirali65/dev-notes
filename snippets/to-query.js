@@ -4,3 +4,5 @@ export const toQuery = (params) =>
   ).toString();
 
 // keep it pure
+
+// guard the empty case
