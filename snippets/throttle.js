@@ -7,3 +7,5 @@ export function throttle(fn, wait = 200) {
     return fn(...args);
   };
 }
+
+// keep it pure
