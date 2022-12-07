@@ -5,3 +5,5 @@ export function safeJson(text, fallback = null) {
     return fallback;
   }
 }
+
+// used in the notes above
