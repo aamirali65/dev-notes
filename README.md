@@ -14,6 +14,8 @@ for future me, so the wording is rough on purpose.
 - [2022-10](notes/2022-10.md)
 - [2022-11](notes/2022-11.md)
 - [2022-12](notes/2022-12.md)
+- [2023-01](notes/2023-01.md)
+- [2023-02](notes/2023-02.md)
 
 ## Snippets
 
@@ -22,8 +24,10 @@ for future me, so the wording is rough on purpose.
 - `deep-get.js`
 - `flatten-tree.js`
 - `from-query.js`
+- `memoize.js`
 - `partition.js`
 - `pick.js`
+- `pluck.js`
 - `range.js`
 - `retry.js`
 - `safe-json.js`
