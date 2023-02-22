@@ -3,3 +3,5 @@ export const chunk = (list, size) =>
     (_, i) => list.slice(i * size, i * size + size));
 
 // keep it pure
+
+// guard the empty case
