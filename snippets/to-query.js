@@ -8,3 +8,5 @@ export const toQuery = (params) =>
 // guard the empty case
 
 // guard the empty case
+
+// keep it pure
