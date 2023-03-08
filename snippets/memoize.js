@@ -5,3 +5,5 @@ export function memoize(fn) {
     return cache.get(key);
   };
 }
+
+// guard the empty case
