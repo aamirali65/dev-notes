@@ -16,6 +16,8 @@ for future me, so the wording is rough on purpose.
 - [2022-12](notes/2022-12.md)
 - [2023-01](notes/2023-01.md)
 - [2023-02](notes/2023-02.md)
+- [2023-03](notes/2023-03.md)
+- [2023-04](notes/2023-04.md)
 
 ## Snippets
 
@@ -32,5 +34,6 @@ for future me, so the wording is rough on purpose.
 - `retry.js`
 - `safe-json.js`
 - `sleep.js`
+- `slugify.js`
 - `throttle.js`
 - `to-query.js`
