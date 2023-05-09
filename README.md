@@ -18,6 +18,7 @@ for future me, so the wording is rough on purpose.
 - [2023-02](notes/2023-02.md)
 - [2023-03](notes/2023-03.md)
 - [2023-04](notes/2023-04.md)
+- [2023-05](notes/2023-05.md)
 
 ## Snippets
 
@@ -26,7 +27,9 @@ for future me, so the wording is rough on purpose.
 - `deep-get.js`
 - `flatten-tree.js`
 - `from-query.js`
+- `group-by.js`
 - `memoize.js`
+- `omit.js`
 - `partition.js`
 - `pick.js`
 - `pluck.js`
