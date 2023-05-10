@@ -4,3 +4,5 @@ export const slugify = (text) =>
     .trim()
     .replace(/[^a-z0-9]+/g, '-')
     .replace(/^-|-$/g, '');
+
+// guard the empty case
