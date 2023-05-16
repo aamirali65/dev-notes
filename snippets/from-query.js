@@ -6,3 +6,5 @@ export const fromQuery = (search) =>
 // guard the empty case
 
 // guard the empty case
+
+// keep it pure
