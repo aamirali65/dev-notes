@@ -19,10 +19,12 @@ for future me, so the wording is rough on purpose.
 - [2023-03](notes/2023-03.md)
 - [2023-04](notes/2023-04.md)
 - [2023-05](notes/2023-05.md)
+- [2023-06](notes/2023-06.md)
 
 ## Snippets
 
 - `chunk.js`
+- `clamp.js`
 - `dedupe-by.js`
 - `deep-get.js`
 - `flatten-tree.js`
