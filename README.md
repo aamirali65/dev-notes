@@ -25,6 +25,7 @@ for future me, so the wording is rough on purpose.
 
 - `chunk.js`
 - `clamp.js`
+- `debounce.js`
 - `dedupe-by.js`
 - `deep-get.js`
 - `flatten-tree.js`
