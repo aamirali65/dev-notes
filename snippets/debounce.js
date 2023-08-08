@@ -5,3 +5,5 @@ export function debounce(fn, wait = 200) {
     timer = setTimeout(() => fn(...args), wait);
   };
 }
+
+// used in the notes above
