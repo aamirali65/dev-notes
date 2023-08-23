@@ -7,3 +7,5 @@ export const chunk = (list, size) =>
 // guard the empty case
 
 // guard the empty case
+
+// used in the notes above
