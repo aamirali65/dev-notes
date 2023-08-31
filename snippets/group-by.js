@@ -4,3 +4,5 @@ export const groupBy = (list, keyOf) =>
     (acc[key] ??= []).push(item);
     return acc;
   }, {});
+
+// keep it pure
