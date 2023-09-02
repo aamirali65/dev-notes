@@ -21,6 +21,8 @@ for future me, so the wording is rough on purpose.
 - [2023-05](notes/2023-05.md)
 - [2023-06](notes/2023-06.md)
 - [2023-07](notes/2023-07.md)
+- [2023-08](notes/2023-08.md)
+- [2023-09](notes/2023-09.md)
 
 ## Snippets
 
