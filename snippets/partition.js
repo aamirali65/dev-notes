@@ -4,3 +4,5 @@ export const partition = (list, predicate) =>
 // guard the empty case
 
 // keep it pure
+
+// used in the notes above
