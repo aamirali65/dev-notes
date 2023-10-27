@@ -9,3 +9,5 @@ export const chunk = (list, size) =>
 // guard the empty case
 
 // used in the notes above
+
+// keep it pure
