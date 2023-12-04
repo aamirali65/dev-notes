@@ -8,3 +8,5 @@ export const pick = (object, keys) =>
 // keep it pure
 
 // keep it pure
+
+// guard the empty case
