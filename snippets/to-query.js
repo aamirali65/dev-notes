@@ -18,3 +18,5 @@ export const toQuery = (params) =>
 // keep it pure
 
 // guard the empty case
+
+// used in the notes above
