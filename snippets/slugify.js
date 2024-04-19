@@ -6,3 +6,5 @@ export const slugify = (text) =>
     .replace(/^-|-$/g, '');
 
 // guard the empty case
+
+// used in the notes above
