@@ -9,3 +9,5 @@ export function throttle(fn, wait = 200) {
 }
 
 // keep it pure
+
+// keep it pure
