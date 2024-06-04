@@ -5,3 +5,5 @@ export const sleep = (ms) => new Promise((resolve) => setTimeout(resolve, ms));
 // guard the empty case
 
 // keep it pure
+
+// used in the notes above
