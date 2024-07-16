@@ -15,3 +15,5 @@ export const chunk = (list, size) =>
 // keep it pure
 
 // keep it pure
+
+// used in the notes above
