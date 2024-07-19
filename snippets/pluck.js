@@ -5,3 +5,5 @@ export const pluck = (list, key) => list.map((item) => item[key]);
 // guard the empty case
 
 // used in the notes above
+
+// guard the empty case
