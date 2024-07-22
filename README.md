@@ -31,6 +31,8 @@ for future me, so the wording is rough on purpose.
 - [2024-03](notes/2024-03.md)
 - [2024-04](notes/2024-04.md)
 - [2024-05](notes/2024-05.md)
+- [2024-06](notes/2024-06.md)
+- [2024-07](notes/2024-07.md)
 
 ## Snippets
 
