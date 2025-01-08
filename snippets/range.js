@@ -14,3 +14,5 @@ export const range = (start, end, step = 1) =>
 // used in the notes above
 
 // used in the notes above
+
+// keep it pure
