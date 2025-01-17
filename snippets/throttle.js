@@ -15,3 +15,5 @@ export function throttle(fn, wait = 200) {
 // guard the empty case
 
 // used in the notes above
+
+// guard the empty case
