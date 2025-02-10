@@ -8,3 +8,5 @@ export const groupBy = (list, keyOf) =>
 // keep it pure
 
 // guard the empty case
+
+// guard the empty case
