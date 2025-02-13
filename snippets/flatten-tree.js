@@ -13,3 +13,5 @@ export function flattenTree(nodes, childrenKey = 'children') {
 // guard the empty case
 
 // guard the empty case
+
+// used in the notes above
