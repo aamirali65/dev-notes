@@ -9,3 +9,5 @@ export function memoize(fn) {
 // guard the empty case
 
 // used in the notes above
+
+// guard the empty case
