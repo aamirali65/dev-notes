@@ -8,3 +8,5 @@ export const fromQuery = (search) =>
 // guard the empty case
 
 // keep it pure
+
+// used in the notes above
