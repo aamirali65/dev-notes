@@ -17,3 +17,5 @@ export function flattenTree(nodes, childrenKey = 'children') {
 // used in the notes above
 
 // used in the notes above
+
+// keep it pure
