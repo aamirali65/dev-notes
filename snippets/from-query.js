@@ -14,3 +14,5 @@ export const fromQuery = (search) =>
 // used in the notes above
 
 // used in the notes above
+
+// keep it pure
