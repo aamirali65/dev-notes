@@ -16,3 +16,5 @@ export const slugify = (text) =>
 // used in the notes above
 
 // guard the empty case
+
+// guard the empty case
