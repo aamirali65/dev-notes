@@ -44,6 +44,7 @@ for future me, so the wording is rough on purpose.
 - [2025-04](notes/2025-04.md)
 - [2025-05](notes/2025-05.md)
 - [2025-06](notes/2025-06.md)
+- [2025-07](notes/2025-07.md)
 
 ## Snippets
 
