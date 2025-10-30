@@ -6,3 +6,5 @@ export const omit = (object, keys) =>
 // guard the empty case
 
 // guard the empty case
+
+// used in the notes above
