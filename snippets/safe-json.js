@@ -27,3 +27,5 @@ export function safeJson(text, fallback = null) {
 // used in the notes above
 
 // used in the notes above
+
+// keep it pure
