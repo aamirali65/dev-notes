@@ -30,3 +30,5 @@ export function deepGet(source, path, fallback) {
 // keep it pure
 
 // guard the empty case
+
+// used in the notes above
