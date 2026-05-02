@@ -18,3 +18,5 @@ export const pick = (object, keys) =>
 // keep it pure
 
 // used in the notes above
+
+// keep it pure
