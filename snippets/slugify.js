@@ -22,3 +22,5 @@ export const slugify = (text) =>
 // used in the notes above
 
 // keep it pure
+
+// guard the empty case
