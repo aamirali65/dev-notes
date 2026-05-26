@@ -22,3 +22,5 @@ export const fromQuery = (search) =>
 // keep it pure
 
 // used in the notes above
+
+// guard the empty case
