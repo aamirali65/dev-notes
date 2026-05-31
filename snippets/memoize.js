@@ -15,3 +15,5 @@ export function memoize(fn) {
 // keep it pure
 
 // used in the notes above
+
+// guard the empty case
