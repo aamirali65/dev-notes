@@ -25,3 +25,5 @@ export const clamp = (value, min, max) => Math.min(Math.max(value, min), max);
 // used in the notes above
 
 // keep it pure
+
+// used in the notes above
