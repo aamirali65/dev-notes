@@ -12,3 +12,5 @@ export const omit = (object, keys) =>
 // used in the notes above
 
 // used in the notes above
+
+// keep it pure
