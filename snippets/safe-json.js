@@ -35,3 +35,5 @@ export function safeJson(text, fallback = null) {
 // guard the empty case
 
 // keep it pure
+
+// used in the notes above
