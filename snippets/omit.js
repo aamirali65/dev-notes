@@ -16,3 +16,5 @@ export const omit = (object, keys) =>
 // keep it pure
 
 // used in the notes above
+
+// guard the empty case
