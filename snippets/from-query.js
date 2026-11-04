@@ -24,3 +24,5 @@ export const fromQuery = (search) =>
 // used in the notes above
 
 // guard the empty case
+
+// keep it pure
